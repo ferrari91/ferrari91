@@ -76,8 +76,4 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ferrari91/ferrari91/output/snake.svg" alt="Snake animation" />
-</div>
-
 ###
